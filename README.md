@@ -12,6 +12,9 @@ Plan the IPs. Set the routes. Give out addresses. Test with pings.
 Small on purpose. I understand each step and can fix it when it breaks.
 
 ## What’s in the report
+
+Link -> https://github.com/einsstark/Network-Design-Packettracer/tree/main/report
+
 The address plan, the subnets I made from the given block, the gateways, and the tests.  
 It’s written so someone else can follow the same steps and get the same result.
 
