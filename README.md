@@ -23,8 +23,6 @@ Start with the IP plan on paper.
 Configure slowly and test as you go.  
 /30 for links keeps things tidy.  
 Exclude gateway/infra IPs from DHCP.  
-Write down what you expect and what you saw after running it. 
-
 
 ## How to open
 1) Install Cisco Packet Tracer  
