@@ -27,7 +27,7 @@ Exclude gateway/infra IPs from DHCP.
 ## How to open
 1) Install Cisco Packet Tracer  
 2) Download this repo (Code → Download ZIP) or clone it  
-3) Open `FinalNetworkProject.pkt`
+3) Open `Network_u2284279.pkt`
 
 ## Verify
 Ping across subnets.  
